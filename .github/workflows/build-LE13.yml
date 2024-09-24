@@ -17,7 +17,7 @@ on:
         type: string
       target:
         description: "targets to build"
-        default: all
+        default: AMLGX.aarch64
         required: true
         type: choice
         options:
